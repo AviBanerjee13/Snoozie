@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "botbuilder": "^3.11.0",
+    "google-spreadsheet": "^2.0.4",
     "restify": "^6.2.3"
   }
 }
